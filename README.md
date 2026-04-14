@@ -5,10 +5,10 @@ I'm a student at **42 School**, navigating the world of C, C++, and low-level pr
 ## 🌱 What I'm Up To
 
 Working through the 42 core curriculum, developing skills in:
-	- Systems programming and memory management
-	- Algorithm design and optimization
-	- Unix/Linux system administration
-	- Shell scripting and automation
+- Systems programming and memory management
+- Algorithm design and optimization
+- Unix/Linux system administration
+- Shell scripting and automation
 
 ## 🛠️ Tech Stack
 
@@ -21,9 +21,9 @@ Standards:  Strict adherence to 42 Norm and compilation with -Wall -Wextra -Werr
 
 ## 📚 Learning Journey
 
-	- 42 methodology emphasizes peer-to-peer learning, autonomous problem-solving, and rigorous code
-	- Through this program, I've developed strong debugging skills, attention to detail,
-	- Ability to tackle complex problems independently
+- 42 methodology emphasizes peer-to-peer learning, autonomous problem-solving, and rigorous code
+- Through this program, I've developed strong debugging skills, attention to detail,
+- Ability to tackle complex problems independently
 
 ## 🤝 Open to Collaborate
 
