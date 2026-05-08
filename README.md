@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a student at **42 School**, navigating the world of C, C++, and low-level programming one segfault at a time.
+I'm a software developer at **42 School**, navigating the world of C, C++, and low-level programming one segfault at a time.
 
 ## 🌱 What I'm Up To
 
@@ -16,7 +16,7 @@ Working through the 42 core curriculum, developing skills in:
 Languages:  C, C++, Shell
 Tools:      Git, Make, GDB, Valgrind
 Environment: Unix/Linux
-Standards:  Strict adherence to 42 Norm and compilation with -Wall -Wextra -Werror
+Standards:  Adherence to 42 Norm and compilation with -Wall -Wextra -Werror
 ```
 
 ## 📚 Learning Journey
